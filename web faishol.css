@@ -1,0 +1,49 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #071952;
+}
+
+
+.navbar-eek {
+    background-color: #062bae;
+}
+
+.footer {
+    background-color: #088395;
+    height: 100px;
+}
+
+.a-footer {
+    text-decoration :none;
+    color: rgb(0, 0, 0);
+}
+.ul-navbar {
+
+    display:flex ;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.li-navbar {
+    border: 5px solid #010000;
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+
+}
+
+.container-content {
+    size: 50px;
+
+}
+
+.fontnya {
+    font-size: 100px;
+    color: red;
+}
